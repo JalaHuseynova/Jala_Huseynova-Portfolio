@@ -3,5 +3,6 @@ This is a  Python project that collects and analyzes phone listings from the Tap
 ![](/Images/Tap.az.png)
 
 ## Project 2: [Airlines Flights Data Analysis](Airlines_Flights_Data_.ipynb)
+![](Images/Airline.webp)
 
 ## Project 3: [Hr analytics project](https://github.com/JalaHuseynova/hr_analytics_project#hr_analytics_project)
