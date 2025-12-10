@@ -6,7 +6,7 @@ This is a  Python project that collects and analyzes phone listings from the Tap
 ![](Images/Airline.webp)
 
 ## Project 3: [Customer-Churn-Analysis](Churn)
-![](Images/Customer churn.jpg)
+![](Images/Customerchurn.jpg)
 
 
 ## Project 3: [Hr analytics project](https://github.com/JalaHuseynova/hr_analytics_project#hr_analytics_project)
