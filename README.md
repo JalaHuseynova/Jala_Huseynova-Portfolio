@@ -8,5 +8,5 @@ This is a  Python project that collects and analyzes phone listings from the Tap
 ## Project 3: [Customer-Churn-Analysis](https://github.com/JalaHuseynova/Customer-Churn-Analysis)
 ![](Images/Customerchurn.jpg)
 
-
-## Project 3: [Hr analytics project](https://github.com/JalaHuseynova/hr_analytics_project#hr_analytics_project)
+## Project 4: [Hr analytics project](https://github.com/JalaHuseynova/hr_analytics_project#hr_analytics_project)
+![](Images/HR-Analytics.webp)
