@@ -1,5 +1,5 @@
 ## Project 1:[Crop-Yield-Prediction](https://github.com/JalaHuseynova/Crop-Yield-Prediction)
-![](Images/head photo.PNG)
+![](Images/head%20photo.PNG)
 ## Project 2: [Airlines Flights Data Analysis](https://github.com/JalaHuseynova/Airlines-Flight-Data-Analysis/blob/main/Airlines_Flights_Data_.ipynb)
 ![](Images/Airline.webp)
 
